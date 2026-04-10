@@ -1,1 +1,1 @@
-The triangular mesh dataset (OBJ)is here. The code will be made open-source after the paper is published.
+The triangular mesh dataset (OBJ) is being uploaded to Baidu Netdisk. The code will be open-sourced after the paper is published.
